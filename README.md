@@ -16,8 +16,8 @@ Equipe: Bruno OLiveira,
 2) Desenvolva as telas do sistema.
 
 [Web_Agenda_2 (1).pdf](https://github.com/BrunoSnt07/Projeto-Agenda/files/6816566/Web_Agenda_2.1.pdf)
-limk para as telas no Figma: https://www.figma.com/proto/5m08vL4EPkaEdT9n9abN3l/Web_Agenda_2?node-id=2%3A3&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A3
-Figma versão 
+link para as telas no Figma: https://www.figma.com/proto/5m08vL4EPkaEdT9n9abN3l/Web_Agenda_2?node-id=2%3A3&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A3
+Figma web 
 
 3) UML:
 
@@ -29,9 +29,10 @@ b. Elaborar diagramas de sequência para os casos de uso mais importantes. Aqui 
 – Busca de um contato 
 – Adição de um novo grupo de contato 
 
-![sequence-diagram_adiciona_novocontato-3](https://user-images.githubusercontent.com/23100493/125636822-bc95613e-797d-4bb4-aaa5-e4d575174351.png)
-![sequence-diagram_Busca_contato-2](https://user-images.githubusercontent.com/23100493/125636829-57160c63-11dc-4396-9102-c41a78d721ef.png)
-![sequence-diagram_cadastro-1](https://user-images.githubusercontent.com/23100493/125636831-48e169a9-bfd7-4d55-a3b0-89a117d7cfab.png)
+![sequence-diagram_adiciona_novocontato-3](https://user-images.githubusercontent.com/23100493/125648560-adcb4b45-e316-47f7-97d7-60e2eef21b45.jpeg)
+![sequence-diagram_Busca_contato-2](https://user-images.githubusercontent.com/23100493/125648561-dfaa955e-177b-4c19-8a7c-ec619cfe634d.jpeg)
+![sequence-diagram_cadastro-1](https://user-images.githubusercontent.com/23100493/125648567-28a8dcaf-47c4-4749-a9db-868d73a50f35.jpeg)
+
 
 
 c. Elaborar diagramas de atividade. Lembre-se que este tipo de diagrama é importante para entender os  processos de um dado négocio, capturando a interaçao entre atores envolvidos, o fluxo de informaçao (que  pode ser feito à base de papel, por exemplo). Imagine que uma dada empresa ainda usa papel e você é um  ser “invisível”, que apenas observa como os funcionários dessa empresa interagem, geram e modificam  documentos, etc, ao longo da execução de um dado processo. Claro que processos envolvendo computador também podem ser modelados. 
@@ -40,10 +41,11 @@ Elabore, no mínimo, os seguintes diagramas de atividades:
  - mapa de navegação de telas  
 
 
-![activity-diagram cadastro-1](https://user-images.githubusercontent.com/23100493/125637104-f5aa19b6-f9b9-4b94-b7e0-7faaf7b793d0.png)
-![activity-diagram_Listagem_contato-4](https://user-images.githubusercontent.com/23100493/125637107-6f20709d-d894-4ed9-b150-979899a42376.png)
-![activity-diagram_login-2](https://user-images.githubusercontent.com/23100493/125637109-d5a4858a-9bb0-4615-bc8c-ab478f7ac693.png)
-![activity-diagram_mapa_navegacao-3](https://user-images.githubusercontent.com/23100493/125637113-92b5c2ff-4fb4-47a0-8d93-6eb6baf5f5d0.png)
+![activity-diagram_cadastro-1](https://user-images.githubusercontent.com/23100493/125648629-c17e02fe-4bec-44c0-8463-497eb3732064.jpeg)
+![activity-diagram_Listagem_contato-4](https://user-images.githubusercontent.com/23100493/125648633-18fdd805-65e3-4707-9532-bfbe7a881bd7.jpeg)
+![activity-diagram_login-2](https://user-images.githubusercontent.com/23100493/125648636-40de6388-41c7-4f7c-92aa-6bacc87226a1.jpeg)
+![activity-diagram_mapa_navegacao-3](https://user-images.githubusercontent.com/23100493/125648645-40d80109-8d13-485c-90f6-486a5e9d6bf8.jpeg)
+
 
 
 
@@ -53,7 +55,8 @@ d. Elaborar os diagramas de classe do sistema. Separe as classes em diagramas, d
 
 e. Elaborar os diagramas de estado de um objeto Conta (Account) 
 
-![behavior-state-machine-diagram_account](https://user-images.githubusercontent.com/23100493/125637495-d7c5da11-6d37-4971-bc97-5509cbda1fd4.png)
+![behavior-state-machine-diagram_account](https://user-images.githubusercontent.com/23100493/125648724-6565ceed-4ad3-4806-8d2f-0fcda7d94bbb.jpeg)
+
 
 f. Explicitar a arquitetura escolhida. Nela você deverá explicitar os módulos do sistema, sempre  respeitando o padrão arquitetural escolhido (4-Layer, Transaction Scripts, Domain Model, etc). Use, para  tal, diagramas de componentes e/ou de pacotes.
 
