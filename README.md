@@ -14,11 +14,21 @@ Equipe: Bruno OLiveira,
 1) Casos de uso
 
 
+Caso de uso: Sistema web de Agenda de Contatos
+
+Atores: Usuário
+
+Visão Geral: O usuário realiza o login no sistema de agenda (validação de usuário), após isso é exibido a listagem de contatos que já foram salvos na agenda. Após a listagem dos contatos salvos, o usuário pode realizar o cadastro de um novo contato, a edição de um contato já existente ou apagar um contato que já foi cadastrado.
+Dentro do contato, é possível a visualização dos telefones; assim como o cadastro de um novo telefone, edição de telefone e exclusão dentro de um contato já cadastrado.
+
+
 
 2) Desenvolva as telas do sistema.
 
 [Web_Agenda_2 (1).pdf](https://github.com/BrunoSnt07/Projeto-Agenda/files/6816566/Web_Agenda_2.1.pdf)
+
 link para as telas no Figma: https://www.figma.com/proto/5m08vL4EPkaEdT9n9abN3l/Web_Agenda_2?node-id=2%3A3&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A3
+
 [Web_Agenda_2 .pdf](https://github.com/BrunoSnt07/Projeto-Agenda/files/6817373/Web_Agenda_2.1.pdf)
 
 
