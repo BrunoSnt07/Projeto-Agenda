@@ -4,10 +4,10 @@ Projeto Agenda
 
 Professor: César Olavo
 
-Equipe: Bruno OLiveira 
-        Bruno Wilson
-        Marcus Vinicius
-        Kellory Meneses
+Equipe: Bruno OLiveira, 
+        Bruno Wilson,
+        Marcus Vinicius,
+        Kellory Meneses.
 
 
 
