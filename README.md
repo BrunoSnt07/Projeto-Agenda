@@ -1,6 +1,8 @@
-## Projeto Agenda Web
+## Projeto Agenda Telefônica
 
-Projeto Agenda
+Instituto Federal do Ceará- Campus Fortaleza
+
+Projeto da disciplina de Engenharuia de Software
 
 Professor: César Olavo de Moura Filho
 
@@ -137,6 +139,13 @@ Ferramentas utilizadas na prototipação do projeto
 Para confecção das telas foi utilizado o software web Figma, desenvolvido pela empresa Figma Organization. Para confecção dos Diagramas e casos de uso foi utilizado o softwre
 Genmymodel, deenvolvido pela Axellience. Para o desenvolvimento do software Agenda foi feito com um framework Spring Boot, na linguagem Java.
 
+Para organização geral das atribuiçoes da equipe utilizados o software Trello, para acompanhamento das atividades dentro do prazo estipulado com a melhor qualidade possível
+
+
+
+                                                                 Organização das atribuições-Trello
+
+![Trello_metodologiaAgil](https://user-images.githubusercontent.com/23100493/125702966-ca4e0749-f240-4e47-bd0f-4d5b670234bb.png)
 
 
 
