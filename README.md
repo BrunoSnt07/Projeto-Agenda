@@ -1,8 +1,8 @@
-# Projeto-Agenda
+## Projeto Agenda Web
 
 Projeto Agenda
 
-Professor: César Olavo
+Professor: César Olavo de Moura Filho
 
 Equipe: Bruno OLiveira, 
         Bruno Wilson,
@@ -13,11 +13,14 @@ Equipe: Bruno OLiveira,
 
 1) Casos de uso
 
+
+
 2) Desenvolva as telas do sistema.
 
 [Web_Agenda_2 (1).pdf](https://github.com/BrunoSnt07/Projeto-Agenda/files/6816566/Web_Agenda_2.1.pdf)
 link para as telas no Figma: https://www.figma.com/proto/5m08vL4EPkaEdT9n9abN3l/Web_Agenda_2?node-id=2%3A3&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A3
-Figma web 
+[Web_Agenda_2 .pdf](https://github.com/BrunoSnt07/Projeto-Agenda/files/6817373/Web_Agenda_2.1.pdf)
+
 
 3) UML:
 
@@ -65,6 +68,8 @@ FALTA DIAGRAMA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 g. Elaborar os diagramas de implantação (deployment), para especificar em que máquinas (virtuais,  containers, cloud, etc) e recursos os componentes desenvolvidos no item anterior devem ser alocados.
 
 
+                                              Diagrama de Implantação
+
 ![Diagrama de implantação](https://user-images.githubusercontent.com/23100493/125639251-755defab-1e12-4b92-80a1-4830371f88a8.jpeg)
 
 
@@ -78,7 +83,10 @@ Fazer uso dos seguintes design patterns no seu código:
 
 
 
+Ferramentas utilizadas na prototipação do projeto
 
+Para confecção das telas foi utilizado o software web Figma, desenvolvido pela empresa Figma Organization. Para confecção dos Diagramas e casos de uso foi utilizado o softwre
+Genmymodel, deenvolvido pela Axellience. Para o desenvolvimento do software Agenda foi feito com um framework Spring Boot, na linguagem Java.
 
 
 
