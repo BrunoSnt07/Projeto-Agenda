@@ -30,7 +30,7 @@ b. Elaborar diagramas de sequência para os casos de uso mais importantes. Aqui 
 – Adição de um novo grupo de contato 
 
 ![sequence-diagram_adiciona_novocontato-3](https://user-images.githubusercontent.com/23100493/125648560-adcb4b45-e316-47f7-97d7-60e2eef21b45.jpeg)
-![sequence-diagram_Busca_contato-2](https://user-images.githubusercontent.com/23100493/125648561-dfaa955e-177b-4c19-8a7c-ec619cfe634d.jpeg)
+![sequence-diagram_Busca_contato-2](https://user-images.githubusercontent.com/23100493/125649315-346240bd-e040-498c-9469-78b9e0ae9cf8.jpeg)
 ![sequence-diagram_cadastro-1](https://user-images.githubusercontent.com/23100493/125648567-28a8dcaf-47c4-4749-a9db-868d73a50f35.jpeg)
 
 
